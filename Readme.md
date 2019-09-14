@@ -12,7 +12,7 @@ It's showing
 
 ## Getting Started
 * If you want to use the graphics, copy content of SD-Card folder to the root of your SD-Card
-For my example I used an SD Updater + Menu
+* For my example I used an SD Updater + Menu
 If you dont want to use this just comment at the beginning
 ```
 /*

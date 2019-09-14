@@ -8,7 +8,7 @@ It's showing
 * Bed Temp
 * A kind off Progress Bar if a print is running
 
-![Demo Picture](http://lexat.net:2904/lexat/M5Stack-Octoprint-View/raw/master/img/demo.png)
+![Demo Picture](https://raw.githubusercontent.com/LordLeXaT/M5Stack-Octoview/master/img/demo.png)
 
 ## Getting Started
 * If you want to use the graphics, copy content of SD-Card folder to the root of your SD-Card
